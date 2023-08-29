@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "console",
+				"outputs": [
+					{
+						"internalType": "contract ConsoleThis",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"10.ConsoleThis/ConsoleThis.sol": "ConsoleThis"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"10.ConsoleThis/ConsoleThis.sol": {
+			"keccak256": "0xbda033c5ad4a3eca127ed5861de08af7699baa3dd5ad6559c4c608d0c9d0b53a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ebd213ed0ddb59bf666b5b6344681b04b2a82552c980de4fdab362e0b6d4b2db",
+				"dweb:/ipfs/QmVNd6sUK3RnXSypGGr5TFprxy156uC5QkqKTV8owi488n"
+			]
+		}
+	},
+	"version": 1
+}

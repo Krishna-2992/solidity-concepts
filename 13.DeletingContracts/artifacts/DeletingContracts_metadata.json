@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"13.DeletingContracts/DeletingContracts.sol": "DeletingContracts"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"13.DeletingContracts/DeletingContracts.sol": {
+			"keccak256": "0x742036e85ea74630e473949d456e20a563582302463f4aa2c9bee58d039bcbe8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3b09f0e96bfa1b1ab7b82b785944240ea2de80468ea53a5975d8bc22eea62798",
+				"dweb:/ipfs/QmcW2nvs7aRRbJnK46GTV2EWRvSU7Po4DsaHmsP3CxkFwq"
+			]
+		}
+	},
+	"version": 1
+}
